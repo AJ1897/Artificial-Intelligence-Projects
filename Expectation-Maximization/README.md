@@ -10,4 +10,6 @@ Final_main file initializes and runs the program
 
 em_final file has functions defined for the program
 
+
+## Execute File 
 Run the program using python3 final_main.py sample.txt #clusters
