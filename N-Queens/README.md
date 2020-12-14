@@ -1,4 +1,4 @@
-# AI HeavyQueensProblem
+# HeavyQueensProblem
 
 ## Instructions
 
